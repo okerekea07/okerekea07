@@ -6,7 +6,7 @@ I'm interested in cybersecurity, networking, IT infrastructure, Linux, and syste
 
 ## Technical Skills
 
-Operating Systems: Windows,Windows Server, Ubuntu Linux, Kali Linux
+Operating Systems: Windows, Windows Server, Ubuntu Linux, Kali Linux
 
 Networking: TCP/IP, DNS, DHCP, Cisco Packet Tracer
 
@@ -14,11 +14,12 @@ Cybersecurity Tools: Wireshark, Aircrack-ng
 
 Systems & Virtualization: Active Directory, VirtualBox, VMware
 
-Programming: Python, Currently Learning (C++)
+Programming: Python, C++ (Learning)
 
-Other: Network troubleshooting, wireless security, Basic Pen testing
+Other: Network Troubleshooting, Wireless Security, Penetration Testing Fundamentals
 
-# Featured Projects
+
+## Featured Projects
 
 ## Wireless Network Security Assessment
 
@@ -30,13 +31,13 @@ Collected and analyzed wireless network data using WiGLE and Google Earth Pro. O
 
 Project repositories and documentation will be linked here as they are published.
 
-# Currently Learning/ Working On
+## Currently Learning/ Working On
 
 CompTIA Security+ (SY0-701) — In Progress
 
-Windows Server and Active Directory administration Home Lab -----  est Nov 2026 completion
+Windows Server and Active Directory administration Home Lab - In Progress
 
-Linux system administration and troubleshooting Home Lab ----- est Nov 2026 completion
+Linux system administration and troubleshooting Home Lab - In Progress
 
 # Career Interests
 
